@@ -1,1 +1,2 @@
-Conflito de arquivo entre branch
+Conflito de arquivo entre branch..
+
